@@ -1,0 +1,16 @@
+[debug] [2019-12-13T19:39:12.955Z] ----------------------------------------------------------------------
+[debug] [2019-12-13T19:39:12.957Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\NTLNKO007\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js serve
+[debug] [2019-12-13T19:39:12.957Z] CLI Version:   7.10.0
+[debug] [2019-12-13T19:39:12.957Z] Platform:      win32
+[debug] [2019-12-13T19:39:12.957Z] Node Version:  v10.15.3
+[debug] [2019-12-13T19:39:12.960Z] Time:          Fri Dec 13 2019 21:39:12 GMT+0200 (South Africa Standard Time)
+[debug] [2019-12-13T19:39:12.961Z] ----------------------------------------------------------------------
+[debug] [2019-12-13T19:39:12.961Z] 
+[debug] [2019-12-13T19:39:12.973Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-12-13T19:39:12.975Z] > authorizing via signed-in user
+[debug] [2019-12-13T19:39:12.975Z] [iam] checking project net-ninja-marioplan-2d552 for permissions ["firebase.projects.get"]
+[debug] [2019-12-13T19:39:12.977Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/net-ninja-marioplan-2d552:testIamPermissions  
+
+[debug] [2019-12-13T19:39:15.418Z] <<< HTTP RESPONSE 200
+[debug] [2019-12-13T19:39:15.426Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/net-ninja-marioplan-2d552  
+ 
